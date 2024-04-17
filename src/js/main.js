@@ -53,13 +53,30 @@ console.info(numerber)
 // console.log(85)
 // console.log(Math.abs(-85))
 
-let numero = -98
+// let numero = -98
 
-if (78>0) {
-    console.log("Es positivo")
-} else {
-    console.log("Es negativo");
-}
+// if (78>0) {
+//     console.log("Es positivo")
+// } else {
+//     console.log("Es negativo");
+// }
 
-console.log(Math.sign(numero))
+// console.log(Math.sign(numero))
 
+// console.log(Math.max(48,99,55,2,66,4,77))
+// console.log(Math.min(48,99,55,2,66,4,77))
+
+// let numero = 2.9
+// document.write(numero)
+
+// console.log(Math.round(numero))
+// console.log(Math.floor(numero))
+// console.log(Math.ceil(numero))
+
+//random
+
+
+//let numero = Math.round(Math.random() * 100)
+
+// let numero = Math.round(Math.random()*(92 - 90 + 1) + 90)
+// document.write(numero)
